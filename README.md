@@ -10,7 +10,7 @@ This repository contains a comprehensive performance analysis and project showca
 
 The files and reports here demonstrate my ability to manage multiple projects, utilize a wide range of industry-standard tools, and deliver measurable results.
 
-## 🚀 Key Achievements
+##  Key Achievements
 
 * **Web Asset Development:** Built and published over **110+ new web assets**, including 53 unique web pages (using HTML/AI) and 60+ targeted landing pages (using Elementor).
 * **Content Production:** Wrote, optimized, and published **25+ SEO-focused blog posts** and produced **20+ promotional videos** (reels/ads) from scripting and editing to final voice-over.
@@ -18,7 +18,7 @@ The files and reports here demonstrate my ability to manage multiple projects, u
 * **Paid Advertising:** Successfully built and launched complete **Google Ads (PPC)** and **Meta Ads (Facebook/Instagram)** campaigns from scratch.
 * **Link Building:** Acquired **5-10+ high-quality backlinks daily** through a diverse outreach and content submission strategy.
 
-## 🛠️ Technology & Tools Stack
+##  Technology & Tools Stack
 
 | Category | Tools |
 | :--- | :--- |
@@ -31,7 +31,7 @@ The files and reports here demonstrate my ability to manage multiple projects, u
 
 ---
 
-## 📈 Detailed Project Breakdown
+##  Detailed Project Breakdown
 
 This section provides a detailed analysis of the activities, tools, and skills demonstrated within each strategic pillar of the internship.
 
